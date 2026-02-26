@@ -21,6 +21,7 @@
 </p>
 
 🚀 Featured Projects
+
 🔐 Black Box Vault
 A Zero-Trust security system built directly into the Linux Kernel. Uses a custom Android app to generate dynamic TOTP hashes, validated in real-time via OpenCV to grant hardware-level access via IOCTL commands to a secure device node (/dev/secret_vault).
 

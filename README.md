@@ -36,8 +36,6 @@ A full-stack, scalable application architecture demonstrating robust backend eng
 
 📊 GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayanks4367&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Mayank's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanks4367&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 <div align="center">

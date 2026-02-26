@@ -1,4 +1,3 @@
-Gemini said
 <div align="center">
 <h1>Hi there, I'm Mayank! <img src="https://media.giphy.com/media/hvRJp20Tq0o3A1P2E3/giphy.gif" width="28"></h1>
 <h3>Systems Programmer | 2nd-Year B.Tech CS Student</h3>
@@ -11,8 +10,6 @@ Gemini said
 ⚙️ Interests: Low-level systems engineering, Linux kernel development, operating systems, and cybersecurity.
 
 🛠️ Environment: Proudly compiling kernels and customizing my Arch Linux setup.
-
-⚡ Off-Screen: Hitting the gym, playing the guitar, or learning new languages (currently exploring Korean and Bengali!).
 
 💻 Tech Stack & Tools
 <p align="left">
